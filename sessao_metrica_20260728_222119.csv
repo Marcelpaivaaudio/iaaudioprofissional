@@ -1,0 +1,31 @@
+timestamp,categoria,confianca,rms,latencia_ms,estado_motor_decisao,acao_codigo
+22:20:49,Silêncio,0.9997,0.000263,0.0,Silêncio (dentro do normal),
+22:20:51,Fala,0.9863,0.028771,620.71,Operação normal — fala detectada,
+22:20:52,Silêncio,0.9997,0.000253,0.0,Silêncio (dentro do normal),
+22:20:53,Silêncio,0.9996,0.000361,0.0,Silêncio (dentro do normal),
+22:20:54,Silêncio,0.9996,0.000427,0.0,Silêncio (dentro do normal),
+22:20:55,Silêncio,0.9972,0.00277,0.0,Silêncio (dentro do normal),
+22:20:56,Fala,0.958,0.055295,97.45,Operação normal — fala detectada,
+22:20:57,Fala,0.9465,0.036439,20.29,Operação normal — fala detectada,
+22:20:58,Fala,0.8692,0.045352,26.75,Operação normal — fala detectada,
+22:20:59,Fala,0.9823,0.033074,19.08,Operação normal — fala detectada,
+22:21:00,Fala,0.9499,0.026102,22.56,Operação normal — fala detectada,
+22:21:01,Fala,0.9724,0.013483,19.14,Operação normal — fala detectada,
+22:21:02,Silêncio,0.5,0.01973,19.65,Silêncio (dentro do normal),
+22:21:03,Fala,0.919,0.039685,18.93,Operação normal — fala detectada,
+22:21:04,Fala,0.9537,0.035275,30.98,Operação normal — fala detectada,
+22:21:05,Fala,0.786,0.032255,20.39,Operação normal — fala detectada,
+22:21:06,Silêncio,0.9986,0.001388,0.0,Silêncio (dentro do normal),
+22:21:07,Silêncio,0.9994,0.000587,0.0,Silêncio (dentro do normal),
+22:21:08,Silêncio,0.9996,0.000381,0.0,Silêncio (dentro do normal),
+22:21:09,Silêncio,0.999,0.00097,0.0,Silêncio (dentro do normal),
+22:21:10,Silêncio,0.9999,9.1e-05,0.0,Silêncio (dentro do normal),
+22:21:11,Silêncio,0.9999,8.5e-05,0.0,Silêncio (dentro do normal),
+22:21:12,Silêncio,0.9999,8.5e-05,0.0,Silêncio (dentro do normal),
+22:21:13,Silêncio,0.9999,9e-05,0.0,Silêncio prolongado,SUGERIR_MUTE
+22:21:14,Silêncio,0.9999,9.2e-05,0.0,Silêncio prolongado,SUGERIR_MUTE
+22:21:15,Silêncio,0.9999,9.2e-05,0.0,Silêncio prolongado,SUGERIR_MUTE
+22:21:16,Silêncio,0.9999,8.6e-05,0.0,Silêncio prolongado,SUGERIR_MUTE
+22:21:17,Silêncio,0.9999,8.2e-05,0.0,Silêncio prolongado,SUGERIR_MUTE
+22:21:18,Silêncio,0.9999,7.8e-05,0.0,Silêncio prolongado,SUGERIR_MUTE
+22:21:19,Silêncio,0.9999,6.8e-05,0.0,Silêncio prolongado,SUGERIR_MUTE

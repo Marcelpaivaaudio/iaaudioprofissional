@@ -1,0 +1,8 @@
+sounddevice>=0.4.6
+numpy
+tensorflow>=2.16
+tensorflow-hub>=0.16
+scipy
+streamlit
+setuptools<72
+matplotlib
